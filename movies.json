@@ -1,0 +1,15 @@
+{
+  "movies_list": [
+    {
+      "title": "The Dare",
+      "year": 2020,
+      "cast": [
+                "Richard Short",
+                "Daniel Schutzmann",
+                "Harry Jarvis"
+            ],
+      "image": "Your-image-url",
+      "description": "Evil Dead is some film."
+        }
+      ]
+}
